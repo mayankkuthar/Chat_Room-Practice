@@ -12,7 +12,7 @@ This a practice project for creating a Chatting application. I have created a si
 
 ### Solution to overcome obove mentioned points of Database:
 
-- So, We will create a Backup script in python which will download all the data and save all the data on local system on regular intervals. Now we know Database expires adter 90 days. So we will select 49 days as a time-period for regular backups.
+- So, We will create a Backup script in python which will download all the data and save all the data on local system on regular intervals. Now we know Database expires after 90 days. So we will select 49 days as a time-period for regular backups.
 
 ```
 Maths Behind it:
