@@ -19,3 +19,6 @@ Maths Behind it:
 Primes of 90 are 2,5 and 3 so we select 7  (minimum prime non-factor value)
 Now, For n=2 [7ⁿ] as 49 is the largest less than 90 for 7's power.
 ```
+### Hosting:
+
+We are going to use ```Cyclic``` for hosting.
