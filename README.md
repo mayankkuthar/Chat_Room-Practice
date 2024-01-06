@@ -1,6 +1,6 @@
 # Chat_Room-Practice
 
-This a practice project for creating a Chatting application. I have created a similar application earlier too, But as we know Heroku free-tier is not available any more from 28th NOV 2023. So, we are switching to different paltform.
+This a practice project for creating a Chatting application. I have created a similar application earlier too, But as we know Heroku free-tier is not available any more from 28th November 2023. So, we are switching to different paltform.
 
 ## Database Limitations:
 
